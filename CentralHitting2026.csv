@@ -1,0 +1,6 @@
+month,atBats,hits,baseOnBalls,hitByPitch,sacFlies,totalBases,homeRuns,runs,strikeOuts,doubles,triples,rbi,stolenBases,plateAppearances,AVG,OBP,SLG,OPS,Category
+March,778,156,84,10,4,252,20,84,254,34,1,81,16,878,0.201,0.285,0.324,0.609,Central
+April,4442,1073,535,69,40,1766,151,590,1083,202,19,558,89,5108,0.242,0.33,0.398,0.728,Central
+May,4649,1077,475,59,46,1732,133,569,1182,230,13,544,97,5249,0.232,0.308,0.373,0.681,Central
+June,4443,1123,394,52,32,1924,183,644,1078,212,20,615,83,4943,0.253,0.319,0.433,0.752,Central
+July,1619,393,153,14,12,678,62,221,437,85,7,214,24,1805,0.243,0.311,0.419,0.73,Central

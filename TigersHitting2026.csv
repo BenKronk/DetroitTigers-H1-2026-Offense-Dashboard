@@ -1,0 +1,6 @@
+month,atBats,hits,baseOnBalls,hitByPitch,sacFlies,totalBases,homeRuns,runs,strikeOuts,doubles,triples,rbi,stolenBases,plateAppearances,AVG,OBP,SLG,OPS,Categpry
+March,168,36,22,1,0,49,1,24,55,10,0,24,1,191,0.214,0.309,0.292,0.601,Tigers
+April,898,231,103,11,9,389,32,118,207,52,5,111,8,1023,0.257,0.338,0.433,0.771,Tigers
+May,915,187,102,7,6,283,18,81,253,34,4,76,13,1031,0.204,0.287,0.309,0.596,Tigers
+June,879,222,84,10,10,418,49,137,225,35,7,133,8,988,0.253,0.321,0.476,0.797,Tigers
+July,304,72,32,4,1,130,15,47,84,7,3,43,1,344,0.237,0.317,0.428,0.745,Tigers

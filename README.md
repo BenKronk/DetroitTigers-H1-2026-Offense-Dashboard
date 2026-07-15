@@ -2,11 +2,9 @@
 
 A Power BI dashboard presenting key hitting statistics for the Detroit Tigers through the first half of the 2026 MLB season, benchmarked against the AL Central Division and MLB as a whole. Built end-to-end: data extraction in Python, transformation and modeling in Power Query and DAX, and visualization in Power BI Desktop.
 
-![Dashboard screenshot](DetTigersDashboard_H1_2026.png)
-
 ## Overview
 
-The goal was a single-page analytical view that answers one question at a glance â€” *how are the Tigers hitting relative to their division and the league, and how has that changed month to month* â€” without relying on advanced metrics that depend on external, unstable data sources.
+The goal was a single-page analytical view that answers one question at a glance â€” *how are the Tigers hitting relative to their division and the league, and how has that changed month to month* without relying on advanced metrics that depend on external, unstable data sources.
 
 Every statistic on the dashboard is either pulled directly from the MLB Stats API or computed from its raw components, so the numbers are reproducible and don't depend on any third-party leaderboard that could change or disappear.
 

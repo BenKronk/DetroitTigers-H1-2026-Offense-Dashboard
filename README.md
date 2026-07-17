@@ -1,4 +1,4 @@
-# Detroit Tigers Hitting Dashboard â€” 2026 (First Half)
+# Detroit Tigers Hitting Dashboard 2026 (First Half)
 
 A Power BI dashboard presenting key hitting statistics for the Detroit Tigers through the first half of the 2026 MLB season, benchmarked against the AL Central Division and MLB as a whole. Built end-to-end: data extraction in Python, transformation and modeling in Power Query and DAX, and visualization in Power BI Desktop.
 
